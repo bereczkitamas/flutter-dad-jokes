@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "861622605497",
+    "project_id": "bereczki-dad-jokes",
+    "storage_bucket": "bereczki-dad-jokes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861622605497:android:9d9afb11ce4061fa18ed68",
+        "android_client_info": {
+          "package_name": "hu.bereczki.learning.dadjokes.dad_jokes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861622605497-4qmhfkdjh5t2u7i8hk0d6fv00gn4b8u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHlCqb2i94sb7x1ZuXxzSsUog8wxag3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861622605497-4qmhfkdjh5t2u7i8hk0d6fv00gn4b8u6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "861622605497-8l7e2on4au3tr0btvkdtkb57etmplg2h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "hu.bereczki.learning.dadjokes.dadJokes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
